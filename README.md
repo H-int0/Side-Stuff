@@ -33,7 +33,7 @@ More platforms may be added down the road.
 
 ### [Codecademy](https://www.codecademy.com/)
 
-- *Coming soon*
+- **[P1 - Fashion Blog](https://www.codecademy.com/projects/practice/html-fashion-blog)** - *A Fashion Blog Page.*
 
 ### [Exercism](https://exercism.org/)
 
