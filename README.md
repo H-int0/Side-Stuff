@@ -25,7 +25,7 @@ More platforms may be added down the road.
 
 ### [The Odin Project](https://www.theodinproject.com/)
 
-- *Coming soon*
+- **[P1 - Recipes](https://www.theodinproject.com/lessons/foundations-recipes)** - *A recipe site built to practice fundamental HTML structure and linking.*
 
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
