@@ -29,7 +29,7 @@ More platforms may be added down the road.
 
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
-- *Coming soon*
+- **[P1 - Survey Form](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-survey-form/build-a-survey-form)** - *A survey form site to practice HTML Forms.*
 
 ### [Codecademy](https://www.codecademy.com/)
 
