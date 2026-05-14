@@ -12,6 +12,13 @@
 
 ---
 
+## Quick Links
+
+- [conventions.md](./sys0/docs/conventions.md)
+- [glossary.md](./sys0/docs/glossary.md)
+
+---
+
 ## Platforms
 
 The projects here come from these four learning paths (for now):
@@ -44,7 +51,6 @@ More platforms may be added down the road.
 ### [Codecademy](https://www.codecademy.com/)
 
 - **[P1 - Fashion Blog](https://www.codecademy.com/projects/practice/html-fashion-blog)** - *A Fashion Blog Page.*
-
 - **[P2 - New York City Blog](https://www.codecademy.com/projects/practice/semantic-html-nyc-blog)** - *A New York City Blog Page.*
 
 ---
