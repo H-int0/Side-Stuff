@@ -1,10 +1,16 @@
 # Side-Stuff
 
-*This is a personal collection of projects I've built while learning to code. Nothing here is a finished, shipped product it's just a place where I document my progress and keep everything organized as I work through different courses and challenges on internet.*
+*This is a personal collection of projects I've built while learning to code.*
+
+*Nothing here is a finished, shipped product it's just a place where I document my progress and keep everything organized as I work through different courses and challenges on internet.*
+
+---
 
 ## About
 
 *This repo is my learning sandbox. As I go through various platforms and complete the projects, I add them here. Some might be rough, some might be works in progress and that's kind of the point.*
+
+---
 
 ## Platforms
 
@@ -27,14 +33,21 @@ More platforms may be added down the road.
 
 - **[P1 - Recipes](https://www.theodinproject.com/lessons/foundations-recipes)** - *A recipe site built to practice fundamental HTML structure and linking.*
 
+---
+
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
 - **[P1 - Survey Form](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-survey-form/build-a-survey-form)** - *A survey form site to practice HTML Forms.*
 
+---
+
 ### [Codecademy](https://www.codecademy.com/)
 
 - **[P1 - Fashion Blog](https://www.codecademy.com/projects/practice/html-fashion-blog)** - *A Fashion Blog Page.*
+
 - **[P2 - New York City Blog](https://www.codecademy.com/projects/practice/semantic-html-nyc-blog)** - *A New York City Blog Page.*
+
+---
 
 ### [Exercism](https://exercism.org/)
 
@@ -84,4 +97,4 @@ More platforms may be added down the road.
 
 ---
 
-*-H_int*
+~*H_int*
