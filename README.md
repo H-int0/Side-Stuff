@@ -72,15 +72,9 @@ More platforms may be added down the road.
 │   ├───core                     <- repo level pages
 │   └───docs                     <- all documentation and guides
 │       ├───conventions.md
-│       ├───glossary.md
-│       ├───overview.md
-│       └───repo-structure.md
+│       └───glossary.md
 │
 └───sys1                         <- all learning projects live here
-    ├───container                <- shared resources across all projects
-    │   ├───assets               <- images, audio, video, etc.
-    │   └───error-pages          <- error UI pages
-    │
     ├───lab-codecademy           <- Codecademy
     │   ├───p1                   <- projects
     │   └───p2...                   
@@ -93,10 +87,9 @@ More platforms may be added down the road.
     │   ├───p1                   <- projects
     │   └───p2...                   
     │
-    └───lab-odin                 <- The Odin Projects
+    └───lab-odin                 <- The Odin Project
         ├───p1                   <- projects
         └───p2...
-
 ```
 
 *The goal is progress, not perfection.*

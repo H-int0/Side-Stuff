@@ -155,7 +155,7 @@ Feature branches are where the actual project work happens. Each new learning pr
 
 ### Direct Commits to `dev`
 
-Changes to `sys0/` (repo-level docs, core pages) and `sys1/container/` (shared assets, error pages) can be committed directly to `dev` without a separate feature branch. These are not project-specific additions, they are repo-level maintenance changes, so the overhead of a separate branch is unnecessary.
+Changes to `sys0/` (repo-level docs, core pages) can be committed directly to `dev` without a separate feature branch. These are not project-specific additions, they are repo-level maintenance changes, so the overhead of a separate branch is unnecessary.
 
 ---
 
